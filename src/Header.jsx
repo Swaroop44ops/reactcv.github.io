@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <header className="header">
             <div className="profile">
-                <img src="/circle.png" alt="Profile" className="profile-pic" />
+                <img src="circle.png" alt="Profile" className="profile-pic" />
                 <div>
                     <h1>Swaroop H G</h1>
                     <p>Junior Software Engineer at Idea Infinity IT Solutions</p>
